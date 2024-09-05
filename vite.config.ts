@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/roistat-test-task/',
+  base: '/roisatat-test-vue/',
   plugins: [
     vue(),
   ],
