@@ -1,5 +1,7 @@
 # roistat-test-vue
 
+This page has deployed on https://alexandrprotos.github.io/roisatat-test-vue/
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
